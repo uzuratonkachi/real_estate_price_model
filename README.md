@@ -95,8 +95,8 @@ Open `Client/app.html` in your web browser, or serve it through a local server.
 
 ### Price Prediction Example
 
-![Prediction Output](images/Screenshot (330).png)
-![Prediction Output](images/Screenshot (331).png)
+![Prediction Output](images/output.png)
+![Prediction Output](images/output2.png)
 
 
 
